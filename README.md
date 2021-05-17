@@ -26,7 +26,7 @@
 </p>
 <h2 aling="left">#About me: </h2>
 <p aling="left" color="grey" font-size="20px">
-    I'm Regis Tomkiel <br />and I'm a Software Developer, content creator, strict vegetarian, Free Software/Open Source developer and enthusiast and other additional skills. 
+    I'm Regis Tomkiel! <br />I'm a Software Developer, content creator, strict vegetarian, Free Software/Open Source developer and enthusiast and other additional skills. 
 </p>
 
 <h2 aling="left">#Contact me: </h2>
