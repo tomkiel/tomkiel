@@ -29,7 +29,7 @@
     I'm Regis Tomkiel! <br />I'm a Software Developer, content creator, strict vegetarian, Free Software/Open Source developer and enthusiast and other additional skills. 
 </p>
 
-<h2 aling="left">#Contact me: </h2>
+<h2 aling="left">#Follow me: </h2>
 <p align="left" color="grey" font-size="20px">
     My videos = <a href="https://www.youtube.com/c/TomkielTV/">TomkielTV</a> <br />
     My livestream = <a href="https://www.twitch.tv/tomkiel">Twitch</a> <br />
