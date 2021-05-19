@@ -71,10 +71,11 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=tomkiel&theme=onedark&margin-w=7&hide_border=true" alt="amandahp points"/>
 </p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tomkiel.tomkiel)
 <p align="center" color="grey">
     Based on <a href="https://github.com/amandahp/amandahp">amandahp</a> Profile. <br />
     Thanks :)
 </p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tomkiel.tomkiel)
 
 
