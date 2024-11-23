@@ -27,7 +27,6 @@
 <h2 aling="left">#About me: </h2>
 <p aling="left" color="grey" font-size="20px">
     I'm Regis Tomkiel! <br />I’m a Software Engineer, with more than 8 years of professional experience. 
-    <br>I worked on a great range of web projects with JavaScript, Typescript, Python, Java, and PHP. I also worked with the most popular frameworks/libraries like React, Springboot, Flask, and Laravel. 
 </p>
 
 <h2 aling="left">#Follow me: </h2>
